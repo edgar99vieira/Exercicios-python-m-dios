@@ -1,2 +1,2 @@
-# Exercicios-python-m-dios
-Exercicios python médios
+# Exercicios-Python
+Diversos exercicios, desde o Basico ao Avançado
